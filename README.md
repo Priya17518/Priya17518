@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Priya 👋
 
-<!--
-**Priya17518/Priya17518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE (Data Science) student with an interest in AI, Machine Learning, and Full Stack Development. I enjoy building practical applications that solve real-world problems and continuously improving my technical skills.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍎 FreshSense AI
+An AI-powered web application that analyzes the freshness of fruits and vegetables from uploaded images.
+
+### 📚 QuizGenius AI
+A personalized AI learning and assessment platform that generates quizzes and supports interactive learning.
+
+### 🗺️ Smart Road Navigation *(In Progress)*
+A navigation system designed to provide road guidance along with vehicle-specific road restrictions.
+
+## Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+**Frontend**
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express
+
+**Database**
+- SQLite
+- Supabase
+
+**AI & Data Science**
+- Google Gemini API
+- Scikit-learn
+- Pandas
+- NumPy
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Antigravity 
+
+- LinkedIn *(Add your profile link)*
+- Portfolio *(Coming Soon)*
