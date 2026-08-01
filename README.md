@@ -14,32 +14,11 @@ A personalized AI learning and assessment platform that generates quizzes and su
 A navigation system designed to provide road guidance along with vehicle-specific road restrictions.
 
 ## Tech Stack
-
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-- SQL
-
-**Frontend**
-- React
-- HTML
-- CSS
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-
-**Database**
-- SQLite
-- Supabase
-
-**AI & Data Science**
-- Google Gemini API
-- Scikit-learn
-- Pandas
-- NumPy
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** SQLite, Supabase
+- **AI/ML:** Gemini API, Scikit-learn
 
 **Tools**
 - Git
@@ -47,5 +26,3 @@ A navigation system designed to provide road guidance along with vehicle-specifi
 - VS Code
 - Antigravity 
 
-- LinkedIn *(Add your profile link)*
-- Portfolio *(Coming Soon)*
